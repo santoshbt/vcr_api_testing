@@ -1,0 +1,12 @@
+HTTP/2 410 
+content-length: 156
+content-type: application/json;charset=utf-8
+date: Sat, 21 Apr 2018 11:00:32 GMT
+server: tsa_n
+set-cookie: personalization_id="v1_FQcG3sfIX+zyXX3/anLcfQ=="; Expires=Mon, 20 Apr 2020 11:00:32 UTC; Path=/; Domain=.twitter.com
+set-cookie: guest_id=v1%3A152430843247343228; Expires=Mon, 20 Apr 2020 11:00:32 UTC; Path=/; Domain=.twitter.com
+strict-transport-security: max-age=631138519
+x-connection-hash: 211de083b4fc95ea9f1795f64072b6c8
+x-response-time: 231
+
+{"errors":[{"message":"The Twitter REST API v1 is no longer active. Please migrate to API v1.1. https://dev.twitter.com/docs/api/1.1/overview.","code":64}]}
